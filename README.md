@@ -4,7 +4,7 @@ The purpose of this app is to learn web development technologies.
 
 To install the app, run in your terminal 
 
-### git clone 
+### 'git clone'
 
 
 You need to have npm package installed to run the app. If you don’t have it, run in your terminal:
